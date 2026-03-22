@@ -15,9 +15,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**  
 
-- 🌱 I’m currently exploring **Machine Learning & AI**  
-
-- 👨‍💻 Know more about me: **Coming Soon**  
+- 🌱 I’m currently exploring **Machine Learning & AI** 
 
 - 📝 Feel free to reach out: **batraaastha4@gmail.com**  
 
