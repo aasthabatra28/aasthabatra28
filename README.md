@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/aasthabatra28"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:batraaastha4@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://codolio.com/profile/aasthabatra28">
-  <img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codolio-yellow?style=for-the-badge"/>
 </a>
 </p>
 
